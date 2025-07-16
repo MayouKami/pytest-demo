@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jul 16 15:44:01 CST 2025","Wed Jul 16 15:44:01 CST 2025","5","tests.APM0010_dataRegister","test_dataRegister","TestUserRegister","","","test_login_data",""
+"failed","Wed Jul 16 15:44:00 CST 2025","Wed Jul 16 15:44:00 CST 2025","73","tests.APM0010_dataRegister","test_dataRegister","TestUserRegister","","","test_login_success_message",""
+"passed","Wed Jul 16 15:44:01 CST 2025","Wed Jul 16 15:44:02 CST 2025","1664","tests.APM0010_dataRegister","test_dataRegister","TestUserRegister","","","test_login_again",""
+"passed","Wed Jul 16 15:43:58 CST 2025","Wed Jul 16 15:43:58 CST 2025","378","tests.APM0010_dataRegister","test_dataRegister","TestUserRegister","","","test_init",""
+"passed","Wed Jul 16 15:43:58 CST 2025","Wed Jul 16 15:44:00 CST 2025","1243","tests.APM0010_dataRegister","test_dataRegister","TestUserRegister","","","test_login_to_success",""

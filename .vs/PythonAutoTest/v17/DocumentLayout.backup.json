@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\tests\\APM0010_dataRegister\\test_dataRegister.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|solutionrelative:PythonAutoTest\\tests\\APM0010_dataRegister\\test_dataRegister.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\conftest.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|solutionrelative:PythonAutoTest\\conftest.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\tests\\APM0010_dataRegister\\test_dataRegister2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|solutionrelative:PythonAutoTest\\tests\\APM0010_dataRegister\\test_dataRegister2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\PythonAutoTest.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|solutionrelative:PythonAutoTest\\PythonAutoTest.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\utils\\insert_test_data.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|solutionrelative:PythonAutoTest\\utils\\insert_test_data.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\configs\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|solutionrelative:PythonAutoTest\\configs\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\pytest.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|solutionrelative:PythonAutoTest\\pytest.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\utils\\http_client.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|solutionrelative:PythonAutoTest\\utils\\http_client.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\utils\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|solutionrelative:PythonAutoTest\\utils\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\data\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE41AEF0-4CE5-43E7-A98D-318AD58C1E4B}|PythonAutoTest\\PythonAutoTest.pyproj|solutionrelative:PythonAutoTest\\data\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "__init__.py (utils)",
+              "DocumentMoniker": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\utils\\__init__.py",
+              "RelativeDocumentMoniker": "PythonAutoTest\\utils\\__init__.py",
+              "ToolTip": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\utils\\__init__.py",
+              "RelativeToolTip": "PythonAutoTest\\utils\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-07-11T09:30:19.566Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pytest.ini",
+              "DocumentMoniker": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\pytest.ini",
+              "RelativeDocumentMoniker": "PythonAutoTest\\pytest.ini",
+              "ToolTip": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\pytest.ini",
+              "RelativeToolTip": "PythonAutoTest\\pytest.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2025-07-09T09:02:55.814Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test_dataRegister2.py",
+              "DocumentMoniker": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\tests\\APM0010_dataRegister\\test_dataRegister2.py",
+              "RelativeDocumentMoniker": "PythonAutoTest\\tests\\APM0010_dataRegister\\test_dataRegister2.py",
+              "ToolTip": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\tests\\APM0010_dataRegister\\test_dataRegister2.py",
+              "RelativeToolTip": "PythonAutoTest\\tests\\APM0010_dataRegister\\test_dataRegister2.py",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-07-15T09:32:55.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "insert_test_data.py",
+              "DocumentMoniker": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\utils\\insert_test_data.py",
+              "RelativeDocumentMoniker": "PythonAutoTest\\utils\\insert_test_data.py",
+              "ToolTip": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\utils\\insert_test_data.py",
+              "RelativeToolTip": "PythonAutoTest\\utils\\insert_test_data.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-07-11T07:01:27.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PythonAutoTest.py",
+              "DocumentMoniker": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\PythonAutoTest.py",
+              "RelativeDocumentMoniker": "PythonAutoTest\\PythonAutoTest.py",
+              "ToolTip": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\PythonAutoTest.py",
+              "RelativeToolTip": "PythonAutoTest\\PythonAutoTest.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-07-09T07:43:31.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "conftest.py",
+              "DocumentMoniker": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\conftest.py",
+              "RelativeDocumentMoniker": "PythonAutoTest\\conftest.py",
+              "ToolTip": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\conftest.py",
+              "RelativeToolTip": "PythonAutoTest\\conftest.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-07-09T09:15:42.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_dataRegister.py",
+              "DocumentMoniker": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\tests\\APM0010_dataRegister\\test_dataRegister.py",
+              "RelativeDocumentMoniker": "PythonAutoTest\\tests\\APM0010_dataRegister\\test_dataRegister.py",
+              "ToolTip": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\tests\\APM0010_dataRegister\\test_dataRegister.py",
+              "RelativeToolTip": "PythonAutoTest\\tests\\APM0010_dataRegister\\test_dataRegister.py",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswFcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-07-09T09:13:05.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "http_client.py",
+              "DocumentMoniker": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\utils\\http_client.py",
+              "RelativeDocumentMoniker": "PythonAutoTest\\utils\\http_client.py",
+              "ToolTip": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\utils\\http_client.py",
+              "RelativeToolTip": "PythonAutoTest\\utils\\http_client.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-07-09T09:15:08.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "config.ini",
+              "DocumentMoniker": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\configs\\config.ini",
+              "RelativeDocumentMoniker": "PythonAutoTest\\configs\\config.ini",
+              "ToolTip": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\configs\\config.ini",
+              "RelativeToolTip": "PythonAutoTest\\configs\\config.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2025-07-09T08:23:27.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "__init__.py (data)",
+              "DocumentMoniker": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\data\\__init__.py",
+              "RelativeDocumentMoniker": "PythonAutoTest\\data\\__init__.py",
+              "ToolTip": "C:\\python\\pythonWorkSpace\\PythonAutoTest\\PythonAutoTest\\data\\__init__.py",
+              "RelativeToolTip": "PythonAutoTest\\data\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-07-11T05:36:59.416Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

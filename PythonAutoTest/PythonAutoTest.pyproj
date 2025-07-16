@@ -1,0 +1,58 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>ce41aef0-4ce5-43e7-a98d-318ad58c1e4b</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>tests\APM0010_dataRegister\test_dataRegister.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>PythonAutoTest</Name>
+    <RootNamespace>PythonAutoTest</RootNamespace>
+    <TestFramework>Pytest</TestFramework>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="configs\settings.py" />
+    <Compile Include="conftest.py" />
+    <Compile Include="data\__init__.py" />
+    <Compile Include="PythonAutoTest.py" />
+    <Compile Include="tests\APM0010_dataRegister\test_dataRegister.py" />
+    <Compile Include="utils\db_utils.py" />
+    <Compile Include="utils\insert_test_data.py" />
+    <Compile Include="utils\__init__.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="configs\" />
+    <Folder Include="data\" />
+    <Folder Include="data\user\" />
+    <Folder Include="report\" />
+    <Folder Include="report\APM0010_dataRegister\" />
+    <Folder Include="tests\" />
+    <Folder Include="tests\APM0010_dataRegister\" />
+    <Folder Include="tests\APM0010_dataRegister\testdata\" />
+    <Folder Include="utils\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="configs\config.ini" />
+    <Content Include="pytest.ini" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
