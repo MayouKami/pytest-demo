@@ -90,7 +90,7 @@ class TestUserRegister:
         success_message = WebDriverWait(web_driver, 10).until(
             EC.visibility_of_element_located((By.CSS_SELECTOR, ".success-message"))
         )
-        assert success_message.text == 'アカウントが作成されました！1', "登録成功メッセージ正しくない"
+        assert success_message.text == 'アカウントが作成されました！', "登録成功メッセージ正しくない"
 
     @allure.feature("01_正常系")
     @allure.story("04_DBデータ確認")
